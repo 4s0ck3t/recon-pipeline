@@ -2,7 +2,7 @@
 import platform
 from pathlib import Path
 
-#deleted /usr/local/go for tools!
+#deleted /usr/local/go for tools!!
 defaults = {
     "proxy": "",
     "threads": "10",
